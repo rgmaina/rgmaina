@@ -1,3 +1,3 @@
 Hi,
-I’m Rachael Maina.
-I’m currently learning coding.
+I’m rgmaina.
+I’m currently learning.
